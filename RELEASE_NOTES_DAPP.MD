@@ -4,7 +4,7 @@
 ### 2022.42.2 - 21 Oct 2022
 <BR/>
 
-- Introduces a fix for mobile wallet that couldn't see the left menu anymore.
+- Introduces a fix for mobile users that couldn't see the left menu anymore
 <BR/><BR/>
 
 ### 2022.42.1 - 20 Oct 2022
