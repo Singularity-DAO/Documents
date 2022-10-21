@@ -1,18 +1,14 @@
-RELEASE NOTES
+### RELEASE NOTES
+
+### 2022.42.2 - 21 Oct 2022
 
 
-
-/// 2022.42.2 ///
-
-21 Oct 2022
 
 - Introduces a fix for mobile wallet that couldn't see the left menu anymore.
 
+### 2022.42.1 - 20 Oct 2022
 
 
-/// 2022.42.1 /// 
-
-20 Oct 2022
 
 - Introduces ability to change network in top menu
 - Better error handling when depositing incorrect amounts
@@ -24,4 +20,4 @@ RELEASE NOTES
 
 
  
-![1_iOaoxKg8oyfiZAdo4nOHjg@2x](https://user-images.githubusercontent.com/92045995/197152984-b0f2d0c5-2302-43db-9724-3eb94a47c73d.jpg)
+
