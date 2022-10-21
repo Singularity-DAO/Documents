@@ -14,7 +14,7 @@
 - Better error handling when depositing incorrect amounts
 - Introduces first version of table view for all vaults
 - Improves overall performance
-- Fixed an issue that caused GTM not to work as intended
+- Fixed an issue with GTM
 - Various fixes for mobile users
 - Various UI and back-end fixes
 
