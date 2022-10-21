@@ -1,8 +1,8 @@
 RELEASE NOTES
 
- //////////////////
- /// 2022.42.1 ///
- ////////////////
+
+/// 2022.42.1 /// 
+
 
 - Introduces ability to change network in top menu
 - Better error handling when depositing incorrect amounts
@@ -13,25 +13,5 @@ RELEASE NOTES
 - Various UI and back-end fixes
 
 
-
-
-
-                  ,
-               ,  ;:._.-`''.
-             ;.;'.;`      _ `.
-              ',;`       ( \ ,`-.  
-           `:.`,         (_/ ;\  `-.
-            ';:              / `.   `-._
-          `;.;'              `-,/ .     `-.
-          ';;'              _    `^`       `.
-         ';;            ,'-' `--._          ;
-':      `;;        ,;     `.    ':`,,.__,,_ /
- `;`:;`;:`       ,;  '.    ;,      ';';':';;`
-              .,; '    '-._ `':.;    
-            .:; `          '._ `';;,
-          ;:` `    :'`'       ',__.)
-        `;:;:.,...;'`'
-      ';. '`'::'`''  .'`'
-    ,'jgs`';;:,..::;`'`'
-, .;`      `'::''`
-,`;`.
+ 
+![1_iOaoxKg8oyfiZAdo4nOHjg@2x](https://user-images.githubusercontent.com/92045995/197152984-b0f2d0c5-2302-43db-9724-3eb94a47c73d.jpg)
