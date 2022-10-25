@@ -1,7 +1,7 @@
 ### RELEASE NOTES
 <BR/><BR/>
 
-### 2022.43.1 - 21 Oct 2022
+### 2022.43.1 - 24 Oct 2022
 <BR/>
 
 - Sets distributed rewards in epoch vaults to 'distributed'
