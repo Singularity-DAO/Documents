@@ -1,6 +1,16 @@
 ### RELEASE NOTES
 <BR/><BR/>
 
+### 2022.44.1 - 1 Nov 2022
+<BR/>
+
+- Adds DYNBTC/ETH and DYNETH/ETH to yield vaults, liquidity and swap
+- Adds performance graphs on homepage
+- Adds 24h % on DynaSet pages
+- Improved stability to back-end
+- Minor UI changes and fixes
+<BR/><BR/>
+
 ### 2022.43.1 - 24 Oct 2022
 <BR/>
 
