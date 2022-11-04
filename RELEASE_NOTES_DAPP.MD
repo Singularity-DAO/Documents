@@ -1,6 +1,16 @@
 ### RELEASE NOTES
 <BR/><BR/>
 
+### 2022.44.2 - 4 Nov 2022
+<BR/>
+
+- Adds USDT to Swap
+- Introduces adjusting slippage for DynBTC and DynETH
+- Minor UI changes to DynaSets and Homepage
+
+
+<BR/><BR/>
+
 ### 2022.44.1 - 1 Nov 2022
 <BR/>
 
