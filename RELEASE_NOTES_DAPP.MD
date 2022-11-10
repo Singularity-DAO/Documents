@@ -1,6 +1,17 @@
 ### RELEASE NOTES
 <BR/><BR/>
 
+### 2022.45.1 - 10 Nov 2022
+<BR/>
+
+- Integrates Launchpad into the dApp
+- Introduces native TrustWallet extenstion support
+- Changed the way distributed rewards for epoch vaults are handled
+- Minor fixes in UI
+
+
+<BR/><BR/>
+
 ### 2022.44.2 - 4 Nov 2022
 <BR/>
 
