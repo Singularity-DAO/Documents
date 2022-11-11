@@ -4,7 +4,7 @@
 ### 2022.45.2 - 11 Nov 2022
 <BR/>
 
-- Added support for Coinbase wallets
+- Added support for Coinbase wallet
 <BR/><BR/>
 
 ### 2022.45.1 - 10 Nov 2022
