@@ -5,6 +5,7 @@
 <BR/>
 
 - Added support for Coinbase wallets
+<BR/><BR/>
 
 ### 2022.45.1 - 10 Nov 2022
 <BR/>
