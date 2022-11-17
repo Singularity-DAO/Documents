@@ -1,6 +1,15 @@
 ### RELEASE NOTES
 <BR/><BR/>
 
+### 2022.46.1 - 17 Nov 2022
+<BR/>
+
+- Adds the launchpad pools to the dApp
+- Introduces insurance integration with the platform
+- Various fixes in UI
+
+<BR/><BR/>
+
 ### 2022.45.2 - 11 Nov 2022
 <BR/>
 
