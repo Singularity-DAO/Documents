@@ -1,6 +1,14 @@
 ### RELEASE NOTES
 <BR/><BR/>
 
+### 2022.48.1 - 28 Nov 2022
+<BR/>
+
+- Introduces native mobile UI support
+- Various fixes in UI
+
+<BR/><BR/>
+
 ### 2022.46.1 - 17 Nov 2022
 <BR/>
 
