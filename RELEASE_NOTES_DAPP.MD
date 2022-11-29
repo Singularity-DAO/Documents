@@ -1,6 +1,14 @@
 ### RELEASE NOTES
 <BR/><BR/>
 
+### 2022.48.2 - 29 Nov 2022
+<BR/>
+
+- Fixes an issue on mobile with terms & conditions.
+
+
+<BR/><BR/>
+
 ### 2022.48.1 - 28 Nov 2022
 <BR/>
 
