@@ -1,6 +1,21 @@
 ### RELEASE NOTES
 <BR/><BR/>
 
+### 2022.49.1 - 7 Dec 2022
+<BR/>
+
+- Optimalisations for Dynaset trade tables
+- Closes NTX BNB Chain vaults
+- Introduces improvements to the SEO
+- Prepares the dApp for Dashboard
+- Prepares the dApp for Cardano support
+- Prepares the dApp for DynaSets on BNB Chain
+- Removes any connection to Facebook
+- Various fixes in UI
+
+
+<BR/><BR/>
+
 ### 2022.48.2 - 29 Nov 2022
 <BR/>
 
