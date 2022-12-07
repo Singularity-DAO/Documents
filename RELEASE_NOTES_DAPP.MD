@@ -5,6 +5,7 @@
 <BR/>
 
 - Optimalisations for Dynaset trade tables
+- Fixes an issue for dynDYDX graph datapoints
 - Closes NTX BNB Chain vaults
 - Introduces improvements to the SEO
 - Prepares the dApp for Dashboard
