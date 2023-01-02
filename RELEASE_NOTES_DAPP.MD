@@ -1,6 +1,16 @@
 ### RELEASE NOTES
 <BR/><BR/>
 
+### 2023.01.1 - 2 Jan 2023
+<BR/>
+
+- Fixed a CSS issue that cause the homepage to sometimes load incorrect
+- Introduced a timer for DynL1BNB
+- Additional preparations for adding Cardano support and DynL1BNB
+
+
+<BR/><BR/>
+
 ### 2022.49.1 - 7 Dec 2022
 <BR/>
 
