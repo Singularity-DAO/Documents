@@ -12,6 +12,7 @@
 - Table view in vault is now defaults
 - Gives access to all network data in vaults, regardless of what network you are connected to.
 - Preparations for Dashboard
+- Change to support
 - Minor UI changes
 
 <BR/><BR/>
