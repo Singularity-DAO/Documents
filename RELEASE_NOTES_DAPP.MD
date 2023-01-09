@@ -1,4 +1,19 @@
 ### RELEASE NOTES
+
+<BR/><BR/>
+
+### 2023.02.1 - 9 Jan 2023
+<BR/>
+
+- Opens all DynaSets for contributions and redeems
+- Adds DynETHc
+- Adds DynBNBL1
+- Change the way it handles restricted regions
+- Table view in vault is now defaults
+- Gives access to all network data in vaults, regardless of what network you are connected to.
+- Preparations for Dashboard
+- Minor UI changes
+
 <BR/><BR/>
 
 ### 2023.01.1 - 2 Jan 2023
