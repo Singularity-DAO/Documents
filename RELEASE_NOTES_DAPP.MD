@@ -2,6 +2,15 @@
 
 <BR/><BR/>
 
+### 2023.02.2 - 10 Jan 2023
+<BR/>
+
+- Fixes an issue with epoch vaults on specific mobile phones not displaying correct.
+- Fixes an issue that prevented some users to harvest from vaults.
+- Minor UI changes.
+
+<BR/><BR/>
+
 ### 2023.02.1 - 9 Jan 2023
 <BR/>
 
