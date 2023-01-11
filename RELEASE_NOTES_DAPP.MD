@@ -2,6 +2,13 @@
 
 <BR/><BR/>
 
+### 2023.02.3 - 11 Jan 2023
+<BR/>
+
+- Various fixes to imporove performance
+
+<BR/><BR/>
+
 ### 2023.02.2 - 10 Jan 2023
 <BR/>
 
