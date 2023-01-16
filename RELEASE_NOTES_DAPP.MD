@@ -2,10 +2,18 @@
 
 <BR/><BR/>
 
+### 2023.03.1 - 16 Jan 2023
+<BR/>
+
+- Closed contributions on DynaSets
+- Various fixes to improve performance
+
+<BR/><BR/>
+
 ### 2023.02.3 - 11 Jan 2023
 <BR/>
 
-- Various fixes to imporove performance
+- Various fixes to improve performance
 
 <BR/><BR/>
 
