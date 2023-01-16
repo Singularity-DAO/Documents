@@ -6,6 +6,7 @@
 <BR/>
 
 - Closed contributions on DynaSets
+- Added factsheets to DynaSets
 - Various fixes to improve performance
 
 <BR/><BR/>
